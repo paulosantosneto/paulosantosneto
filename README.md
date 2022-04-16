@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-e8e8e8.svg?&style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/paulosantosneto)
 [![DevTo](https://img.shields.io/badge/dev.to-e8e8e8?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/paulosn)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-e8e8e8?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/psneto)
 
 I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programming</ins> and researcher in the area of <ins>computer vision</ins>.
 
