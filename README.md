@@ -18,5 +18,5 @@ I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programmi
 ![](https://img.shields.io/badge/python-e8e8e8.svg?&style=for-the-badge&logo=python&logoColor=black)
 ![](https://img.shields.io/badge/C++-e8e8e8.svg?&style=for-the-badge&logo=cplusplus&logoColor=black)
 ![](https://img.shields.io/badge/Git-e8e8e8.svg?&style=for-the-badge&logo=git&logoColor=black)
-![](https://img.shields.io/badge/Julia-e8e8e8.svg?&style=for-the-badge&logo=julia&logoColor=black)
 ![](https://img.shields.io/badge/AWS-e8e8e8.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=black)
+
