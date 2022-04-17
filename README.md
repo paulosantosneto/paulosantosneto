@@ -1,10 +1,8 @@
 ## Hi there, I'm Paulo Neto 👋
 
 ### Social Media
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-111111.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulosantosneto)
-[![DevTo](https://img.shields.io/badge/dev.to-111111?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/paulosn)
-[![Kaggle](https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/psneto)
+[![Linkedin](https://img.shields.io/badge/Linkedin-111111.svg?style=flat&logo=linkedin&logoColor=white&color=111111)](https://linkedin.com/in/paulosantosneto)
+[![DevTo](https://img.shields.io/badge/dev.to-111111.svg?style=flat&logo=dev.to&logoColor=white&color=111111)](https://dev.to/paulosn)
 
 I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programming</ins> and researcher in the area of <ins>computer vision</ins>.
 
@@ -14,9 +12,10 @@ I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programmi
 
 
 ### Languages & Tecnologies
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=111111)
 
-![](https://img.shields.io/badge/python-111111.svg?&style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++-111111.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Git-111111.svg?&style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/AWS-111111.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
