@@ -13,6 +13,7 @@ I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programmi
 
 ### Languages & Tecnologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=111111)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=111111)
