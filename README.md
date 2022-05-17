@@ -7,8 +7,8 @@
 I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programming</ins> and researcher in the area of <ins>computer vision</ins>.
 
 **Main projects:**
-- [Competitive Programming](https://github.com/competitive-programming)
-- [Manga Translator](https://github.com/paulosantosneto/manga-translator)
+- [Algorithms & DSA](https://github.com/paulosantosneto/algorithms-dsa)
+- [My OS in Assembly](https://github.com/paulosantosneto/my-os-in-assembly)
 
 
 ### Languages & Tecnologies
