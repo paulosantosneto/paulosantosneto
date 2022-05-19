@@ -8,7 +8,7 @@ I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programmi
 
 **Main projects:**
 - [Algorithms & DSA](https://github.com/paulosantosneto/algorithms-dsa)
-- [My OS in Assembly](https://github.com/paulosantosneto/my-os-in-assembly)
+- [My OS in Assembly](https://github.com/paulosantosneto/my-assembly_os)
 
 
 ### Languages & Tecnologies
