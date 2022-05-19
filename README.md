@@ -7,8 +7,8 @@
 I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programming</ins> and researcher in the area of <ins>computer vision</ins>.
 
 **Main projects:**
-- [Algorithms & DSA](https://github.com/paulosantosneto/algorithms-dsa)
-- [My OS in Assembly](https://github.com/paulosantosneto/my-assembly_os)
+- [My Codes in Codeforces](https://github.com/paulosantosneto/my-codes-codeforces)
+- [My OS in Assembly](https://github.com/paulosantosneto/my-assembly-os)
 
 
 ### Languages & Tecnologies
