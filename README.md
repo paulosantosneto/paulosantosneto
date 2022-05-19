@@ -7,7 +7,7 @@
 I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programming</ins> and researcher in the area of <ins>computer vision</ins>.
 
 **Main projects:**
-- [My Codes in Codeforces](https://github.com/paulosantosneto/my-codes-codeforces)
+- [Codeforces Solutions](https://github.com/paulosantosneto/codeforces-solutions)
 - [My OS in Assembly](https://github.com/paulosantosneto/my-assembly-os)
 
 
