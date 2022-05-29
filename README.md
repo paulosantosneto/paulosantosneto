@@ -8,8 +8,6 @@ I'm Graduating in Computer Engineering, enthusiast of <ins>competitive programmi
 
 **Main projects:**
 - [Codeforces Solutions](https://github.com/paulosantosneto/codeforces-solutions)
-- [My OS in Assembly](https://github.com/paulosantosneto/my-assembly-os)
-- [My NAND to Tetris](https://github.com/paulosantosneto/my-nand-to-tetris)
 
 
 ### Languages & Tecnologies
